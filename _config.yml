@@ -1,0 +1,28 @@
+name: Wind of Fate Productions
+favicon: null
+layout_spectrum: 0.6762056464795023
+typography_spectrum: 0.9475602810271084
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.612444982631132
+  lightness: 0.5902446408290416
+  saturation: 0.2043237944599241
+  rhythmicContrast: 0.9651921342592686
+purpose: []
