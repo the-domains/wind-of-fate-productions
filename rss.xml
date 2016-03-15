@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wind of Fate Productions]]></title>
+        <description><![CDATA[Wind of Fate Productions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Mar 2016 01:56:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to Wind of Fate Productions. We are based in Brandon, Manitoba, Canada. We are not a set team, group, or company, we are independent, sometimes collaborators, that are striving to hone our artistic crafts. Whether it be Filmmaking, Poetry, or Painting, Scrapbooking, Music, or Design, we are all working towards excellence. Happy to see the Wind of Fate has brought you here.    </p>]]></description>
+            <link>undefinedwelcome-to-wind-of-fate-productions/index.html</link>
+            <guid isPermaLink="false">1fb956dd-120f-43c5-bdb3-5ae267ada960</guid>
+            <pubDate>Tue, 15 Mar 2016 01:56:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
